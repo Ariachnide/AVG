@@ -1,0 +1,29 @@
+- Homepage : get
+
+- CGU & mentions légales & livraisons et retour : get
+
+- Agathèque : get
+
+- Concept : get
+
+- Nos boutiques : get
+
+- créer un compte : post
+- login : post & get
+
+- Nous contacter : post
+
+- mon compte:
+    - get informations du compte (infos, coordonnées, commandes, favoris)
+    - update détails de mon compte ?
+
+- créer son noeud pap & espace boutique :
+    - get data (motifs, couleurs, prix ...)
+    - post du panier ?
+
+- Si le panier est stocké en back, get les commandes depuis le panier
+- Panier pro : get données des collections (couleurs, prix, etc...)
+
+- Finaliser la commande : post
+
+- Chat : get & post ?

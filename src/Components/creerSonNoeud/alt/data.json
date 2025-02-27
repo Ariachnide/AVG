@@ -1,0 +1,703 @@
+{
+  "elements": [
+    {
+      "name": "Unis",
+      "categories": [
+        {
+          "catName": "blabla",
+          "colors": [
+            {
+              "colorName": "blanc",
+              "thumb": "./img/noeud/thumbnail/5a1eb4a9a2669.png",
+              "arriere": "./img/noeud/noeud1/5a2aa9e5755ed.png",
+              "avant": "./img/noeud/noeud2/5a2aa9e575a8a.png",
+              "centrale": "./img/noeud/noeud3/5a2aa9e575e5e.png",
+              "bouton": "./img/noeud/boutons/5a2aa9e575381.png",
+              "pochette": "./img/noeud/pochette/5a2aa9e57508d.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a2aa9e574c22.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a2aa9e574e98.png"
+              }
+            },
+            {
+              "colorName": "vert",
+              "thumb": "./img/noeud/thumbnail/5a1eb4aac7c7e.png",
+              "arriere": "./img/noeud/noeud1/5a2aa9600f80f.png",
+              "avant": "./img/noeud/noeud2/5a2aa9600fe74.png",
+              "centrale": "./img/noeud/noeud3/5a2aa960102d9.png",
+              "bouton": "./img/noeud/boutons/5a2aa9600cfc1.png",
+              "pochette": "./img/noeud/pochette/5a2aa96006e43.png",
+              "tissu": {
+                "grand" : "./img/noeud/tissu/grand/5a2aa960023eb.png",
+                "millieu" : "./img/noeud/tissu/millieu/5a2aa96006c3f.png"
+            }
+            },
+            {
+              "colorName": "bleu",
+              "thumb": "./img/noeud/thumbnail/5a1eb4d31e4eb.png",
+              "arriere": "./img/noeud/noeud1/5a2aaa7155e62.png",
+              "avant": "./img/noeud/noeud2/5a2aaa71563dd.png",
+              "centrale": "./img/noeud/noeud3/5a2aaa71567f0.png",
+              "bouton": "./img/noeud/boutons/5a2aaa7155ba5.png",
+              "pochette": "./img/noeud/pochette/5a2aaa7155852.png",
+              "tissu": {
+                "grand" : "./img/noeud/tissu/grand/5a2aaa71553ef.png",
+                "millieu" : "./img/noeud/tissu/millieu/5a2aaa7155670.png"
+            }
+            }
+          ]
+        },
+        {
+          "catName": "blaaaa",
+          "colors": [
+            {
+              "colorName": "blanc",
+              "thumb": "./img/noeud/thumbnail/5a3a9c568239f.png",
+              "arriere": "./img/noeud/noeud1/5a2aabdf39657.png",
+              "avant": "./img/noeud/noeud2/5a2aabdf39c67.png",
+              "bouton": "./img/noeud/boutons/5a2aabdf39373.png",
+              "pochette": "./img/noeud/pochette/5a2aabdf3900c.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a2aabdf38b00.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a2aabdf38e02.png"
+              }
+            },
+            {
+              "colorName": "vert",
+              "thumb": "./img/noeud/thumbnail/5a3a9b788ced8.png",
+              "arriere": "./img/noeud/noeud1/5a5c71a5bc848.png",
+              "avant": "./img/noeud/noeud2/5a5c71a5bcf58.png",
+              "bouton": "./img/noeud/boutons/5a5c71a5bc555.png",
+              "pochette": "./img/noeud/pochette/5a5c71a5bc17c.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c71a5bbc9e.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c71a5bbf8b.png"
+              }
+            },
+            {
+              "colorName": "rouge",
+              "thumb": "./img/noeud/thumbnail/5a3a9c3f4b15b.png",
+              "arriere": "./img/noeud/noeud1/5a5c71f08fc51.png",
+              "avant": "./img/noeud/noeud2/5a5c71f09121f.png",
+              "bouton": "./img/noeud/boutons/5a5c71f08f99a.png",
+              "pochette": "./img/noeud/pochette/5a5c71f08f639.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c71f08f18a.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c71f08f449.png"
+              }
+            }
+          ]
+        },
+        {
+          "catName": "blou",
+          "colors": [
+            {
+              "colorName": "blanc",
+              "thumb": "./img/noeud/thumbnail/5a9e85efb6b41.png",
+              "arriere": "./img/noeud/noeud1/5a5c72caae4fe.png",
+              "avant": "./img/noeud/noeud2/5a5c72caaece1.png",
+              "centrale": "./img/noeud/noeud3/5a2aabdf3a0f8.png",
+              "bouton": "./img/noeud/boutons/5a5c72caae1df.png",
+              "pochette": "./img/noeud/pochette/5a5c72caadd97.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5abb7e60ab463.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c72caadb62.png"
+              }
+            },
+            {
+              "colorName": "vert",
+              "thumb": "./img/noeud/thumbnail/5a9e86a64ff2f.png",
+              "arriere": "./img/noeud/noeud1/5a5c73a74b2a7.png",
+              "avant": "./img/noeud/noeud2/5a5c73a74b7e3.png",
+              "centrale": "./img/noeud/noeud3/5a5c71a5bd4c0.png",
+              "bouton": "./img/noeud/boutons/5a5c73a74b038.png",
+              "pochette": "./img/noeud/pochette/5a5c73a74ad1c.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c72caad853.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c73a74ab6d.png"
+              }
+            },
+            {
+              "colorName": "gris",
+              "thumb": "./img/noeud/thumbnail/5a9e8830d30e5.png",
+              "arriere": "./img/noeud/noeud1/5a5c75ba362ae.png",
+              "avant": "./img/noeud/noeud2/5a5c75ba369e7.png",
+              "centrale": "./img/noeud/noeud3/5a5c71f091815.png",
+              "bouton": "./img/noeud/boutons/5a5c75ba35fd1.png",
+              "pochette": "./img/noeud/pochette/5a5c75ba35c5a.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c73a747c93.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c75ba35a53.png"
+              }
+            }
+          ]
+        },
+        {
+          "catName": "beeeeh",
+          "colors": [
+            {
+              "colorName": "blanc",
+              "thumb": "./img/noeud/thumbnail/5a670f6a441ab.png",
+              "arriere": "./img/noeud/noeud1/5a5c79eae1e15.png",
+              "avant": "./img/noeud/noeud2/5a5c79eae23f9.png",
+              "centrale": "./img/noeud/noeud3/5a5c72caaf2bd.png",
+              "bouton": "./img/noeud/boutons/5a5c79eae1b96.png",
+              "pochette": "./img/noeud/pochette/5a5c79eae1858.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c75ba35774.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c79eae168c.png"
+              }
+            },
+            {
+              "colorName": "vert",
+              "thumb": "./img/noeud/thumbnail/5a671b6dc3d6a.png",
+              "arriere": "./img/noeud/noeud1/5a5c715a0bbb8.png",
+              "avant": "./img/noeud/noeud2/5a5c715a0c1f0.png",
+              "centrale": "./img/noeud/noeud3/5a5c73a74bbed.png",
+              "bouton": "./img/noeud/boutons/5a5c715a0b8ed.png",
+              "pochette": "./img/noeud/pochette/5a5c715a0b519.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c79eae13fd.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c715a0b340.png"
+              }
+            },
+            {
+              "colorName": "cyan",
+              "thumb": "./img/noeud/thumbnail/5a671da498077.png",
+              "arriere": "./img/noeud/noeud1/5a5c723fcfffc.png",
+              "avant": "./img/noeud/noeud2/5a5c723fd05d3.png",
+              "centrale": "./img/noeud/noeud3/5a5c75ba36f27.png",
+              "bouton": "./img/noeud/boutons/5a5c723fcfd46.png",
+              "pochette": "./img/noeud/pochette/5a5c723fcf9e3.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c715a0b060.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c723fcf803.png"
+              }
+            }
+          ]
+        },
+        {
+          "catName": "pludidé",
+          "colors": [
+            {
+              "colorName": "blanc",
+              "thumb": "./img/noeud/thumbnail/5a6712ae59971.png",
+              "arriere": "./img/noeud/noeud1/5a5c730f64294.png",
+              "avant": "./img/noeud/noeud2/5a5c771e44692.png",
+              "centrale": "./img/noeud/noeud3/5abb7bb516798.png",
+              "bouton": "./img/noeud/boutons/5a5c730f6400a.png",
+              "pochette": "./img/noeud/pochette/5a5c730f63cbb.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c723fcf55b.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c730f63ac4.png"
+              }
+            },
+            {
+              "colorName": "vert",
+              "thumb": "./img/noeud/thumbnail/5a6714e7c4e49.png",
+              "arriere": "./img/noeud/noeud1/5a5c771e44145.png",
+              "avant": "./img/noeud/noeud2/5a5c7283cfe83.png",
+              "centrale": "./img/noeud/noeud3/5a5c79eae2877.png",
+              "bouton": "./img/noeud/boutons/5a5c771e43ebe.png",
+              "pochette": "./img/noeud/pochette/5a5c771e43b96.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c730f6381f.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c771e439c2.png"
+              }
+            },
+            {
+              "colorName": "orange",
+              "thumb": "./img/noeud/thumbnail/5a6717f37ade8.png",
+              "arriere": "./img/noeud/noeud1/5a5c7283cf811.png",
+              "avant": "./img/noeud/noeud2/5a5c736463338.png",
+              "centrale": "./img/noeud/noeud3/5a5c715a0c6ac.png",
+              "bouton": "./img/noeud/boutons/5a5c7283cf547.png",
+              "pochette": "./img/noeud/pochette/5a5c7283cf1a3.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c771e43742.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c7283cefb8.png"
+              }
+            }
+          ]
+        },
+        {
+          "catName": "oulala",
+          "colors": [
+            {
+              "colorName": "blanc",
+              "thumb": "./img/noeud/thumbnail/5a67434f36fce.png",
+              "arriere": "./img/noeud/noeud1/5a5c736462c6e.png",
+              "avant": "./img/noeud/noeud2/5a8d82dc93556.png",
+              "centrale": "./img/noeud/noeud3/5a5c723fd0a4a.png",
+              "bouton": "./img/noeud/boutons/5a5c7364629cf.png",
+              "pochette": "./img/noeud/pochette/5a5c736462642.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c7283cecde.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a5c73646243e.png"
+              }
+            },
+            {
+              "colorName": "vert",
+              "thumb": "./img/noeud/thumbnail/5a672436dc1b9.png",
+              "arriere": "./img/noeud/noeud1/5a8d82dc92e18.png",
+              "avant": "./img/noeud/noeud2/5a8d823ac666d.png",
+              "centrale": "./img/noeud/noeud3/5a5c730f64f16.png",
+              "bouton": "./img/noeud/boutons/5a8d82dc92b37.png",
+              "pochette": "./img/noeud/pochette/5a8d82dc92730.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a5c73646214b.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a9e85efba9af.png"
+              }
+            },
+            {
+              "colorName": "noir",
+              "thumb": "./img/noeud/thumbnail/5a6743910ac0e.png",
+              "arriere": "./img/noeud/noeud1/5a8d823ac5f61.png",
+              "avant": "./img/noeud/noeud2/5a8d81523d3bd.png",
+              "centrale": "./img/noeud/noeud3/5a5c771e44ad5.png",
+              "bouton": "./img/noeud/boutons/5a8d823ac5c25.png",
+              "pochette": "./img/noeud/pochette/5a8d823ac5022.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a8d82dc923cc.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a9e86a6504bb.png"
+              }
+            }
+          ]
+        }
+      ],
+      "availableProducts": [
+        { "productName": "Grand rectangle", "available": true },
+        { "productName": "Petit rectangle", "available": true },
+        { "productName": "Attache centrale", "available": true },
+        { "productName": "Boutons de manchette", "available": true },
+        { "productName": "Pochette", "available": true }
+      ]
+    },
+    {
+      "name": "Liberty",
+      "categories": [
+        {
+          "catName": "blabla",
+          "colors": [
+            {
+              "colorName": "violet",
+              "thumb": "./img/noeud/thumbnail/5a5c7acd17cc9.png",
+              "arriere": "./img/noeud/noeud1/5a8d81523a81f.png",
+              "avant": "./img/noeud/noeud2/5a8d833647118.png",
+              "centrale": "./img/noeud/noeud3/5a5c7283d0375.png",
+              "bouton": "./img/noeud/boutons/5a8d815235dae.png",
+              "pochette": "./img/noeud/pochette/5a8d815232d5d.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a8d823ac4c9b.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a9e8830d35eb.png"
+              }
+            },
+            {
+              "colorName": "pourpre",
+              "thumb": "./img/noeud/thumbnail/5a5c7aed2d68c.png",
+              "arriere": "./img/noeud/noeud1/5a8d833646975.png",
+              "avant": "./img/noeud/noeud2/5a9e85efc706c.png",
+              "centrale": "./img/noeud/noeud3/5a5c73646383d.png",
+              "bouton": "./img/noeud/boutons/5a8d833646651.png",
+              "pochette": "./img/noeud/pochette/5a8d8336462a5.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a8d81522e77f.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a15a092c9fc8.png"
+              }
+            }
+          ]
+        },
+        {
+          "catName": "blaaaa",
+          "colors": [
+            {
+              "colorName": "émeraude",
+              "thumb": "./img/noeud/thumbnail/5a5c71a5bba2e.png",
+              "arriere": "./img/noeud/noeud1/5a9e85efc414e.png",
+              "avant": "./img/noeud/noeud2/5a9e86a652997.png",
+              "centrale": "./img/noeud/noeud3/5a9e85efc74c5.png",
+              "bouton": "./img/noeud/boutons/5a9e85efbcb38.png",
+              "pochette": "./img/noeud/pochette/5a9e85efbaba8.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a8d833639b04.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a27e739e1a44.png"
+              }
+            },
+            {
+              "colorName": "beige",
+              "thumb": "./img/noeud/thumbnail/5a5c72caad5af.png",
+              "arriere": "./img/noeud/noeud1/5a9e86a6523f9.png",
+              "avant": "./img/noeud/noeud2/5a9e8830d43ea.png",
+              "centrale": "./img/noeud/noeud3/5a9e86a652e07.png",
+              "bouton": "./img/noeud/boutons/5a9e86a6520f2.png",
+              "pochette": "./img/noeud/pochette/5a9e86a6506c2.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a9e85efba761.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a58ca4eaa03f.png"
+              }
+            }
+          ]
+        }
+      ],
+      "availableProducts": [
+        { "productName": "Grand rectangle", "available": true },
+        { "productName": "Petit rectangle", "available": false },
+        { "productName": "Attache centrale", "available": true },
+        { "productName": "Boutons de manchette", "available": false },
+        { "productName": "Pochette", "available": true }
+      ]
+    },
+    {
+      "name": "Dakar",
+      "categories": [
+        {
+          "catName": "blabla",
+          "colors": [
+            {
+              "colorName": "émeraude",
+              "thumb": "./img/noeud/thumbnail/5a214c6d6d309.png",
+              "arriere": "./img/noeud/noeud1/5a9e8830d3df3.png",
+              "avant": "./img/noeud/noeud2/5a15a092e05eb.png",
+              "centrale": "./img/noeud/noeud3/5a9e8830d487e.png",
+              "bouton": "./img/noeud/boutons/5a9e8830d3afc.png",
+              "pochette": "./img/noeud/pochette/5a9e8830d37dc.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a9e86a65021e.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a58cc13d2547.png"
+              }
+            },
+            {
+              "colorName": "beige",
+              "thumb": "./img/noeud/thumbnail/5a252bdb50abc.png",
+              "arriere": "./img/noeud/noeud1/5a15a092da63d.png",
+              "avant": "./img/noeud/noeud2/5a27e9f5d785b.png",
+              "centrale": "./img/noeud/noeud3/5a15a092e3182.png",
+              "bouton": "./img/noeud/boutons/5a15a092d64e9.png",
+              "pochette": "./img/noeud/pochette/5a15a092ca2de.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a9e8830d3338.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a214c6da6931.png"
+              }
+            }
+          ]
+        },
+        {
+          "catName": "blaaaa",
+          "colors": [
+            {
+              "colorName": "rose",
+              "thumb": "./img/noeud/thumbnail/5a252bf1059b9.png",
+              "arriere": "./img/noeud/noeud1/5a27e739e2bb2.png",
+              "avant": "./img/noeud/noeud2/5a58ca4eab05b.png",
+              "centrale": "./img/noeud/noeud3/5a27e739e5576.png",
+              "bouton": "./img/noeud/boutons/5a27e739e1cb2.png",
+              "pochette": "./img/noeud/pochette/5a27e9f5d73e1.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a15a092c4456.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a280ca860400.png"
+              }
+            },
+            {
+              "colorName": "jaune",
+              "thumb": "./img/noeud/thumbnail/5a252c00afc80.png",
+              "arriere": "./img/noeud/noeud1/5a58ca4eaa94e.png",
+              "avant": "./img/noeud/noeud2/5a58cc13d3467.png",
+              "centrale": "./img/noeud/noeud3/5a58ca4eab574.png",
+              "bouton": "./img/noeud/boutons/5a58ca4eaa652.png",
+              "pochette": "./img/noeud/pochette/5a58ca4eaa25d.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a27e739dcd8e.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a280e01d6c8e.png"
+              }
+            }
+          ]
+        }
+      ],
+      "availableProducts": [
+        { "productName": "Grand rectangle", "available": false },
+        { "productName": "Petit rectangle", "available": true },
+        { "productName": "Attache centrale", "available": false },
+        { "productName": "Boutons de manchette", "available": true },
+        { "productName": "Pochette", "available": false }
+      ]
+    },
+    {
+      "name": "Vichy",
+      "categories": [
+        {
+          "catName": "blabla",
+          "colors": [
+            {
+              "colorName": "beige",
+              "thumb": "./img/noeud/thumbnail/5af57202b35dc.png",
+              "arriere": "./img/noeud/noeud1/5a58cc13d2d61.png",
+              "avant": "./img/noeud/noeud2/5a214c6f69be2.png",
+              "centrale": "./img/noeud/noeud3/5a58cc13d3918.png",
+              "bouton": "./img/noeud/boutons/5a58cc13d2ae3.png",
+              "pochette": "./img/noeud/pochette/5a58cc13d273c.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a58ca4ea9d1e.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a280ee309413.png"
+              }
+            },
+            {
+              "colorName": "jaune",
+              "thumb": "./img/noeud/thumbnail/5af571c18748c.png",
+              "arriere": "./img/noeud/noeud1/5a214c6f4deef.png",
+              "avant": "./img/noeud/noeud2/5a280ca8613dd.png",
+              "centrale": "./img/noeud/noeud3/5a214c6faa768.png",
+              "bouton": "./img/noeud/boutons/5a214c6f32e83.png",
+              "pochette": "./img/noeud/pochette/5a214c6dc3259.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a58cc13d2279.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a670a21e52d2.png"
+              }
+            }
+          ]
+        },
+        {
+          "catName": "blaaaa",
+          "colors": [
+            {
+              "colorName": "rose",
+              "thumb": "./img/noeud/thumbnail/5af571afcb4ca.png",
+              "arriere": "./img/noeud/noeud1/5a280ca860ccd.png",
+              "avant": "./img/noeud/noeud2/5a280e01d7c98.png",
+              "centrale": "./img/noeud/noeud3/5a280ca8618f7.png",
+              "bouton": "./img/noeud/boutons/5a280ca8609f2.png",
+              "pochette": "./img/noeud/pochette/5a280ca86062e.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a214c6d6d5cb.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a670a638ca0d.png"
+              }
+            },
+            {
+              "colorName": "émeraude",
+              "thumb": "./img/noeud/thumbnail/5af56fc998936.png",
+              "arriere": "./img/noeud/noeud1/5a280e01d7540.png",
+              "avant": "./img/noeud/noeud2/5a280ee30cb7e.png",
+              "centrale": "./img/noeud/noeud3/5a280e01d819d.png",
+              "bouton": "./img/noeud/boutons/5a280e01d7226.png",
+              "pochette": "./img/noeud/pochette/5a280e01d6e67.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a280ca860103.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a670b2238619.png"
+              }
+            }
+          ]
+        }
+      ],
+      "availableProducts": [
+        { "productName": "Grand rectangle", "available": false },
+        { "productName": "Petit rectangle", "available": false },
+        { "productName": "Attache centrale", "available": false },
+        { "productName": "Boutons de manchette", "available": false },
+        { "productName": "Pochette", "available": true }
+      ]
+    },
+    {
+      "name": "Illustrés",
+      "categories": [
+        {
+          "catName": "blabla",
+          "colors": [
+            {
+              "colorName": "vert clair",
+              "thumb": "./img/noeud/thumbnail/5abb7f0c461c2.png",
+              "arriere": "./img/noeud/noeud1/5a280ee30c49a.png",
+              "avant": "./img/noeud/noeud2/5a670a21ed358.png",
+              "centrale": "./img/noeud/noeud3/5a280ee30d075.png",
+              "bouton": "./img/noeud/boutons/5a280ee30c1c1.png",
+              "pochette": "./img/noeud/pochette/5a280ee309603.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a280e01d69bc.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a670c7a5220a.png"
+              }
+            },
+            {
+              "colorName": "bleu clair",
+              "thumb": "./img/noeud/thumbnail/5abb783e90a4d.png",
+              "arriere": "./img/noeud/noeud1/5a670a21e82c6.png",
+              "avant": "./img/noeud/noeud2/5a670a638d896.png",
+              "centrale": "./img/noeud/noeud3/5a670a21ed65d.png",
+              "bouton": "./img/noeud/boutons/5a670a21e807e.png",
+              "pochette": "./img/noeud/pochette/5a670a21e54ac.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a280ee309104.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a670e1be37df.png"
+              }
+            }
+          ]
+        },
+        {
+          "catName": "blaaaa",
+          "colors": [
+            {
+              "colorName": "vert foncé",
+              "thumb": "./img/noeud/thumbnail/5abb7b38d09f1.png",
+              "arriere": "./img/noeud/noeud1/5a670a638d213.png",
+              "avant": "./img/noeud/noeud2/5a670b223ceff.png",
+              "centrale": "./img/noeud/noeud3/5a670a638dd05.png",
+              "bouton": "./img/noeud/boutons/5a670a638cf67.png",
+              "pochette": "./img/noeud/pochette/5a670a638cbec.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a670a21e509f.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a670f6a44659.png"
+              }
+            },
+            {
+              "colorName": "bleu foncé",
+              "thumb": "./img/noeud/thumbnail/5abb6ead481a6.png",
+              "arriere": "./img/noeud/noeud1/5a670b2238cb0.png",
+              "avant": "./img/noeud/noeud2/5a670c7a52e26.png",
+              "centrale": "./img/noeud/noeud3/5a670b223d361.png",
+              "bouton": "./img/noeud/boutons/5a670b2238a86.png",
+              "pochette": "./img/noeud/pochette/5a670b22387f0.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a670a638c76b.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a671b6dc4210.png"
+              }
+            }
+          ]
+        }
+      ],
+      "availableProducts": [
+        { "productName": "Grand rectangle", "available": true },
+        { "productName": "Petit rectangle", "available": true },
+        { "productName": "Attache centrale", "available": true },
+        { "productName": "Boutons de manchette", "available": true },
+        { "productName": "Pochette", "available": false }
+      ]
+    },
+    {
+      "name": "Rayures",
+      "categories": [
+        {
+          "catName": "blabla",
+          "colors": [
+            {
+              "colorName": "blanc",
+              "thumb": "./img/noeud/thumbnail/5b62d1f9e7c7e.png",
+              "arriere": "./img/noeud/noeud1/5a670c7a52932.png",
+              "avant": "./img/noeud/noeud2/5a670e1be4578.png",
+              "centrale": "./img/noeud/noeud3/5a670c7a608de.png",
+              "bouton": "./img/noeud/boutons/5a670c7a526e8.png",
+              "pochette": "./img/noeud/pochette/5a670c7a523f5.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a670b22383cd.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a671da49858c.png"
+              }
+            },
+            {
+              "colorName": "bleu",
+              "thumb": "./img/noeud/thumbnail/5b62d4f9c0734.png",
+              "arriere": "./img/noeud/noeud1/5a670e1be3fb7.png",
+              "avant": "./img/noeud/noeud2/5a670f6a4527c.png",
+              "centrale": "./img/noeud/noeud3/5a670e1be4995.png",
+              "bouton": "./img/noeud/boutons/5a670e1be3d2e.png",
+              "pochette": "./img/noeud/pochette/5a670e1be39c6.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a670c7a51fa0.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a671ee3afc00.png"
+              }
+            }
+          ]
+        },
+        {
+          "catName": "blaaaa",
+          "colors": [
+            {
+              "colorName": "rouge",
+              "thumb": "./img/noeud/thumbnail/5b62d3975dff8.png",
+              "arriere": "./img/noeud/noeud1/5a670f6a44d4b.png",
+              "avant": "./img/noeud/noeud2/5a671b6dc4dbf.png",
+              "centrale": "./img/noeud/noeud3/5a670f6a45688.png",
+              "bouton": "./img/noeud/boutons/5a670f6a44ae3.png",
+              "pochette": "./img/noeud/pochette/5a670f6a4483c.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a670e1be354d.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a673fa4ddbcd.png"
+              }
+            },
+            {
+              "colorName": "gris",
+              "thumb": "./img/noeud/thumbnail/5b62d5501e5e6.png",
+              "arriere": "./img/noeud/noeud1/5a671b6dc4903.png",
+              "avant": "./img/noeud/noeud2/5a671c4b3c45a.png",
+              "centrale": "./img/noeud/noeud3/5a671b6dc51bc.png",
+              "bouton": "./img/noeud/boutons/5a671b6dc469c.png",
+              "pochette": "./img/noeud/pochette/5a671b6dc43ed.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a670f6a443e6.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a673ff2c732b.png"
+              }
+            }
+          ]
+        }
+      ],
+      "availableProducts": [
+        { "productName": "Grand rectangle", "available": true },
+        { "productName": "Petit rectangle", "available": true },
+        { "productName": "Attache centrale", "available": false },
+        { "productName": "Boutons de manchette", "available": false },
+        { "productName": "Pochette", "available": true }
+      ]
+    },
+    {
+      "name": "Pois",
+      "categories": [
+        {
+          "catName": "blabla",
+          "colors": [
+            {
+              "colorName": "rouge",
+              "thumb": "./img/noeud/thumbnail/5b62d648e4f17.png",
+              "arriere": "./img/noeud/noeud1/5a671da498d79.png",
+              "avant": "./img/noeud/noeud2/5a671da499464.png",
+              "centrale": "./img/noeud/noeud3/5a671ee3b0cf2.png",
+              "bouton": "./img/noeud/boutons/5a671da498aba.png",
+              "pochette": "./img/noeud/pochette/5a671da49877a.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a671b6dc3fa9.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a2807a443782.png"
+              }
+            },
+            {
+              "colorName": "gris",
+              "thumb": "./img/noeud/thumbnail/5b62ec1b261d4.png",
+              "arriere": "./img/noeud/noeud1/5a671ee3b0319.png",
+              "avant": "./img/noeud/noeud2/5a671ee3b08ae.png",
+              "centrale": "./img/noeud/noeud3/5a673fa4decdf.png",
+              "bouton": "./img/noeud/boutons/5a671ee3b00a0.png",
+              "pochette": "./img/noeud/pochette/5a671ee3afdd3.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a671da4982bc.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a2809f65e3c1.png"
+              }
+            },
+            {
+              "colorName": "bleu",
+              "thumb": "./img/noeud/thumbnail/5b62ee7d301e1.png",
+              "arriere": "./img/noeud/noeud1/5a673fa4de388.png",
+              "avant": "./img/noeud/noeud2/5a673fa4de8f9.png",
+              "centrale": "./img/noeud/noeud3/5a673ff2c89d0.png",
+              "bouton": "./img/noeud/boutons/5a673fa4de0f5.png",
+              "pochette": "./img/noeud/pochette/5a673fa4dddc6.png",
+              "tissu": {
+                  "grand" : "./img/noeud/tissu/grand/5a671ee3af986.png",
+                  "millieu" : "./img/noeud/tissu/millieu/5a6711e5b869e.png"
+              }
+            }
+          ]
+        }
+      ],
+      "availableProducts": [
+        { "productName": "Grand rectangle", "available": true },
+        { "productName": "Petit rectangle", "available": true },
+        { "productName": "Attache centrale", "available": true },
+        { "productName": "Boutons de manchette", "available": true },
+        { "productName": "Pochette", "available": true }
+      ]
+    }
+  ]
+}
